@@ -1,17 +1,21 @@
 .cabeçalho {
-    background-color: rgb(143, 53, 228);
+    background-color: #BE9FFE;
     width: 1440px;
     height: 200px;
     padding: 20px;
     margin: 0;
 }
 
+.barrasuperior{
+        background-color: #BE9FFE;
+}
+
 .corpo{
-    background-color: rgb(221, 35, 112);
+    background-color: #FE9F9F;
 }
 
 .div{
-    background-color: rgb(84, 170, 245);
+    background-color: #BE9FFE;
     margin-top: 100px;
     border: 2px solid (0, 0, 0);
 }
