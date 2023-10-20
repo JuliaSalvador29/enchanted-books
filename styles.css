@@ -41,3 +41,11 @@ footer{
     weight: 585px;
   }
 
+  .minha-caixa {
+    width: 300px;
+    height: 200px;
+    background-color: #c52424;
+    border: 1px solid #24b4d1;
+    padding: 20px;
+    margin: 20px;
+}
